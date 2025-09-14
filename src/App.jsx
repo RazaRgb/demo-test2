@@ -19,6 +19,7 @@ function App() {
     //</div>
     
     <div className='App'>
+      <h1>test commit</h1>
       <GridCanvasDisplay />
     </div>
     
